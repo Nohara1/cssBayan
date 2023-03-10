@@ -56,5 +56,4 @@ span {
 }
 .accordion-item__input:checked ~ .accordion-item__content {
     display: block;
- 
 }

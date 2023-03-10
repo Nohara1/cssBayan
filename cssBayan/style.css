@@ -48,7 +48,9 @@ span {
 .line2{
 
     transform: rotate(-45deg);
-}
+}  
+
+
 .accordion-item__input:checked + .accordion-item__trigger {
     color: black;
 }

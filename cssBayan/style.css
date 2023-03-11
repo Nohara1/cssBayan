@@ -71,7 +71,7 @@ h1{
 .accordion-item__input:checked ~ .accordion-item__trigger .accordion-item__content .img {
     width: 70%;
     height: 70%;
-
+}
 .accordion-item__content:hover{
  display: block;
 }

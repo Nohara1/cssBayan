@@ -104,10 +104,10 @@ h1{
         opacity: 0;
     }
     .accordion-item__input:checked ~ .accordion-item__trigger .src{
-        opacity: 0;
+        display: none;
     }
     .accordion-item__input:hover ~ .accordion-item__trigger .src{
-        opacity: 0;
+        display: none;
     }
 }
 @media screen and (max-width: 320px){
@@ -116,10 +116,10 @@ h1{
         font-size: 20px;
     }
     .accordion-item__input:hover ~ .accordion-item__trigger .src{
-        opacity: 0;
+        display: none;
     }
     .accordion-item__input:checked ~ .accordion-item__trigger .src{
-        opacity: 0;
+        display: none;
     }
 }
 
